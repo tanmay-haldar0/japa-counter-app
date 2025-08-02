@@ -80,7 +80,7 @@ export default function MantraCounter() {
         <Text style={styles.label}>108 × {Math.floor(lifetime / 108)}</Text>
         <Text style={styles.countText}>{count}</Text>
 
-        <View style={{ flexDirection: "row", justifyContent: "space-around", margin: 32, gap: 42 }}>
+        <View style={{ flexDirection: "row", justifyContent: "space-around", margin: 16, gap: 42 }}>
           <TouchableOpacity style={styles.resetButton} onPress={reset} accessibilityLabel="Reset">
             <Text style={styles.buttonText}>Reset</Text>
           </TouchableOpacity>
@@ -201,7 +201,7 @@ const styles = StyleSheet.create({
     fontSize: 64,
     color: "#1e40af",
     fontWeight: "bold",
-    marginVertical: 10,
+    marginVertical: 5,
   },
   largeButton: {
     backgroundColor: "blue",

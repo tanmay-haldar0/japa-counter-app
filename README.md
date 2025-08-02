@@ -15,7 +15,7 @@ A simple, clean, and intuitive React Native app for tracking mantra repetitions.
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/tanmay-haldar0/japa-counter-app.git
    cd japacounter
    ```
 2. **Install dependencies:**
@@ -47,8 +47,13 @@ A simple, clean, and intuitive React Native app for tracking mantra repetitions.
 
 ## Submission
 
-- **GitHub Link:** [your-repo-url]
-- **Demo Video:** [your-demo-video-link]
+- **GitHub Link:** [(https://github.com/tanmay-haldar0/japa-counter-app.git)]
+
+
+
+### Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/peNnWCu6yRs/hqdefault.jpg)](https://www.youtube.com/shorts/peNnWCu6yRs)
 
 ---
 
